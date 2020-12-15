@@ -13,3 +13,6 @@ GANs in multimodal and diverse UCI datasets. The framework
 is based on an optimization of GAIN algorithm to impute missing
 data with mixed continuous and categorical features for multiple
 imputation with a visualisation toolkit to analyse errors.
+
+Implementation of this work - https://github.com/jsyoon0823/GAIN
+
